@@ -26,3 +26,26 @@ wsl --list --verbose
 ```
 wsl --set-default-version <Version>
 ```
+## Change directory to home
+```
+wsl ~
+```
+## Update WSL
+```
+wsl --update 
+```
+## status
+```
+wsl --status
+```
+
+
+
+
+
+
+
+
+
+
+
