@@ -40,9 +40,9 @@ wsl --status
 ```
 [detalles de wsl2](https://learn.microsoft.com/en-us/windows/wsl/basic-commands#list-installed-linux-distributions)
 
+[detalles avanzados de wsl2](https://learn.microsoft.com/en-us/windows/wsl/wsl-config)
 
-
-
+ 
 
 
 
