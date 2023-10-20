@@ -1,9 +1,9 @@
 # wsl-tips
-Lista de distribuciones Linux disponibles
+## Lista de distribuciones Linux disponibles
 ```
 wsl --list --online
 ```
-Las posibles distribuciones a 2023 son:
+## Las posibles distribuciones a 2023 son:
 |NAME   |  
 | ------------ | 
 | Debian  |  
@@ -17,14 +17,12 @@ Las posibles distribuciones a 2023 son:
 | SUSE-Linux-Enterprise-Server-15-SP4  |   
 | SUSE-Linux-Enterprise-15-SP5 |   
 | openSUSE-Tumbleweed |   
- 
-### Features
 
-Listar distribuciones de Linux instaladas
+## Listar distribuciones de Linux instaladas
 ```
 wsl --list --verbose
 ```
-Establecer la versión WSL predeterminada
+## Establecer la versión WSL predeterminada
 ```
 wsl --set-default-version <Version>
 ```
